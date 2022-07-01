@@ -6,7 +6,7 @@
  
 >php add.php filename.xml
 
-где filename.xml - фаил выгрузки, который необходимо положить в папку /xml.
+где filename.xml - файл выгрузки, который необходимо положить в папку /xml.
 В случае отсутствия файла, отсутствия имени, неправильного указания имени данные загружаются из файла data_light.xml
 
 ## Файлы и папки:
@@ -20,7 +20,7 @@ add.php - скрипт, выполняющий загрузку
 
 /lib/Offer.class.php - класс Offer
 
-/lib/Offers.class.php - класс Offer
+/lib/Offers.class.php - класс Offers
 
 /lib/ParserXml.class.php - класс для парсинга XML
 
